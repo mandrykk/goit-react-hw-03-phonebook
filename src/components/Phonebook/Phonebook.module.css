@@ -1,0 +1,27 @@
+.label {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+.span {
+  margin: 0 15px;
+  color: rgb(68 75 255);
+  font-weight: 600;
+  font-style: italic;
+}
+
+.button {
+  display: flex;
+  margin: auto;
+  padding: 15px 25px;
+  background: rgb(101 82 254);
+  border-radius: 30px;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+.button:hover {
+  background: rgb(31 7 223);
+}

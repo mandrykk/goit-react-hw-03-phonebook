@@ -1,0 +1,9 @@
+.label {
+  padding-left: 40px;
+}
+
+.span {
+  padding-right: 50px;
+  color: rgb(68 75 255);
+  font-weight: 600;
+}

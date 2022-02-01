@@ -1,0 +1,19 @@
+.span {
+  padding-right: 30px;
+}
+
+.button {
+  border: 1px solid #6552fe;
+  border-radius: 10px;
+  padding: 5px;
+  background: none;
+  cursor: pointer;
+  transition: 0.8s;
+  position: relative;
+  overflow: hidden;
+}
+
+.button:hover {
+  background: #6552fe;
+  color: white;
+}
